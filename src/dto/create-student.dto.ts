@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { IsNotEmpty, IsNumber, IsString, MaxLength } from 'class-validator';
 
 // dto files are usefull for defining the object model

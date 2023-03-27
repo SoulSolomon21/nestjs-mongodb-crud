@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Document } from 'mongoose';
 
 // the interface we have created will define how our data object structure will look like

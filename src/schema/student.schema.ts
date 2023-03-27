@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 
 //this decorator fixes the class definition and whatever name we give to this class will appear as the name of the collection
